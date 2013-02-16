@@ -1,0 +1,9 @@
+﻿<Window x:Class="deltagerliste_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <ListBox Name="listbox" HorizontalAlignment="Left" Height="241" Margin="61,36,0,0" VerticalAlignment="Top" Width="404" VerticalContentAlignment="Center" Loaded="ListBox_Loaded_1"/>
+
+    </Grid>
+</Window>

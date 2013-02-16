@@ -1,0 +1,13 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\bin\Debug\WpfDemo2013.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\bin\Debug\WpfDemo2013.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\bin\Debug\WpfDemo2013.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\WpfDemo2013.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\WpfDemo2013_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\WpfDemo2013.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\WpfDemo2013.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\WpfDemo2013.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\WpfDemo2013.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemo\WpfDemo2013\WpfDemo2013\obj\Debug\WpfDemo2013.pdb

@@ -1,0 +1,13 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\bin\Debug\deltagerliste_wpf.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\deltagerliste_wpf.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\deltagerliste_wpf_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\deltagerliste_wpf.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\deltagerliste_wpf.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\deltagerliste_wpf.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\bin\Debug\deltagerliste_wpf.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\bin\Debug\deltagerliste_wpf.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\deltagerliste_wpf.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\WpfDemos\deltagerliste_wpf\deltagerliste_wpf\obj\Debug\deltagerliste_wpf.pdb
