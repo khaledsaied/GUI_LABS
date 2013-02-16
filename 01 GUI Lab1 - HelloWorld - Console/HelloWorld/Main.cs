@@ -19,7 +19,7 @@ namespace HelloWorld
 */
 			
 			/************************************ | Delopgave 4 | ************************************/
-/*			
+		
 			int guess, randomNumber;
 			Random rand = new Random ();
 			randomNumber = rand.Next (minValue: 1, maxValue: 100);
@@ -47,16 +47,16 @@ namespace HelloWorld
 						break;
 					}
 				}
-				catch (Exception)
+				catch (Exception e)
 				{
-					Console.WriteLine("Wrong format! Use only numbers!");
+					Console.WriteLine("Wrong format! Use only numbers! Your error is: {0}",e.Message);
 					break;
 				}
 			}
-*/
+
 
 			/************************************ | Delopgave 5 | ************************************/
-			string amIRight;
+/*			string amIRight;
 			Random myRnd = new Random();
 			int myGuess;
 			int max = 100;
@@ -88,7 +88,7 @@ namespace HelloWorld
 			} while (amIRight != "E");
 			Console.WriteLine("Nice!");
 			Console.ReadKey();
-
+*/
 		}
 	}
 	
