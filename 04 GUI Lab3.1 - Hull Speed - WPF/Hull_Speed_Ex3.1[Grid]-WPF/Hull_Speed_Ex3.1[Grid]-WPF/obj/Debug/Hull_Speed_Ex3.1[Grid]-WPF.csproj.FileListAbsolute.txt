@@ -1,0 +1,13 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\bin\Debug\Hull_Speed_Ex3.1[Grid]-WPF.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\bin\Debug\Hull_Speed_Ex3.1[Grid]-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\bin\Debug\Hull_Speed_Ex3.1[Grid]-WPF.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\Hull_Speed_Ex3.1[Grid]-WPF.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\Hull_Speed_Ex3.1[Grid]-WPF_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\Hull_Speed_Ex3.1[Grid]-WPF.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\Hull_Speed_Ex3._1_Grid__WPF.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\Hull_Speed_Ex3.1[Grid]-WPF.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\Hull_Speed_Ex3.1[Grid]-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Grid]-WPF\Hull_Speed_Ex3.1[Grid]-WPF\obj\Debug\Hull_Speed_Ex3.1[Grid]-WPF.pdb
