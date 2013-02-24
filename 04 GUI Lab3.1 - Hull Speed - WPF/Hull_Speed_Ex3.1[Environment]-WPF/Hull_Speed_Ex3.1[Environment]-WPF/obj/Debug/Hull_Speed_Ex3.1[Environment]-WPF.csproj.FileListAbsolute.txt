@@ -1,0 +1,13 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\bin\Debug\Hull_Speed_Ex3.1[Environment]-WPF.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\bin\Debug\Hull_Speed_Ex3.1[Environment]-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\bin\Debug\Hull_Speed_Ex3.1[Environment]-WPF.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3._1_Environment__WPF.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.pdb

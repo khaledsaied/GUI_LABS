@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" MinHeight="350" MinWidth="525">
 
-    <Grid x:Name="GridPicture" ShowGridLines="True">
+    <Grid x:Name="GridPicture" ShowGridLines="False">
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
             <ColumnDefinition />

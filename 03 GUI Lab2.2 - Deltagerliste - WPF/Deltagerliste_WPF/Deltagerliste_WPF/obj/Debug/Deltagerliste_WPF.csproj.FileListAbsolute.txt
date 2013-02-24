@@ -13,3 +13,6 @@ Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\03 GUI Lab2.2 - Deltagerliste - WPF\Deltagerli
 Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\03 GUI Lab2.2 - Deltagerliste - WPF\Deltagerliste_WPF\Deltagerliste_WPF\obj\Debug\Deltagerliste_WPF.pdb
 Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\03 GUI Lab2.2 - Deltagerliste - WPF\Deltagerliste_WPF\Deltagerliste_WPF\obj\Debug\Deltagerliste.baml
 Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\03 GUI Lab2.2 - Deltagerliste - WPF\Deltagerliste_WPF\Deltagerliste_WPF\obj\Debug\Deltagerliste.g.cs
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\03 GUI Lab2.2 - Deltagerliste - WPF\Deltagerliste_WPF\Deltagerliste_WPF\bin\Debug\Deltagerliste_WPF.exe.config
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\03 GUI Lab2.2 - Deltagerliste - WPF\Deltagerliste_WPF\Deltagerliste_WPF\obj\Debug\Deltagerliste_WPF.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\03 GUI Lab2.2 - Deltagerliste - WPF\Deltagerliste_WPF\Deltagerliste_WPF\obj\Debug\Deltagerliste_WPF.pdb
