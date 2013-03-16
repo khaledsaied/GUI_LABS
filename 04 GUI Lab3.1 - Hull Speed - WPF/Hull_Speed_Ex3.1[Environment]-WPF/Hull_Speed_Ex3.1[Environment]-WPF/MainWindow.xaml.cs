@@ -29,11 +29,18 @@ namespace Hull_Speed_Ex3._1_Environment__WPF
         {
             string[] logicalDrives = Environment.GetLogicalDrives();
             //string currentDirectory = Environment.CurrentDirectory;
-            txtBlock.Inlines.Add("Folder for personal documents: " + Environment.SpecialFolder.Personal);
-            txtBlock.Inlines.Add("\nFolder for application specific user settings: " + Environment.SpecialFolder.UserProfile);
-            txtBlock.Inlines.Add("\nSystem folder: " + Environment.SystemDirectory);
+            txtBlock.Inlines.Add("Folder for personal documents: " + 
+                Environment.GetFolderPath(Environment.SpecialFolder.Personal));
+            txtBlock.Inlines.Add("\nFolder for application specific user settings: " + 
+                Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData));
+            txtBlock.Inlines.Add("\nSystem folder: " + Environment.GetFolderPath(Environment.SpecialFolder.System));
             txtBlock.Inlines.Add("\n\nCurrent directory: " + Environment.CurrentDirectory);
-            txtBlock.Inlines.Add("\nLogical drives: " + logicalDrives[0]+logicalDrives[1]+logicalDrives[2]+logicalDrives[3]);
+
+            //txtBlock.Inlines.Add("\nLogical drives: " + logicalDrives[0]+logicalDrives[1]+logicalDrives[2]+logicalDrives[3]);
+            string str = "\nLogical drives: ";
+            foreach (string s in logicalDrives)
+                str += s.Substring(0, 2) + " ";
+            txtBlock.Inlines.Add(str);
             txtBlock.Inlines.Add("\n\nMachine name: " + Environment.MachineName);
             txtBlock.Inlines.Add("\nUser name: " + Environment.UserName);
             txtBlock.Inlines.Add(new Bold(new Run("\n\nStackTrace:\n")));

@@ -1,0 +1,16 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\bin\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\bin\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\bin\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\Hull_Speed_Ex3._2_StackPanel__WPF.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\bin\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.exe.config
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab3.2 - Hull Speed - WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\Hull_Speed_Ex3.2[StackPanel]-WPF\obj\Debug\Hull_Speed_Ex3.2[StackPanel]-WPF.pdb

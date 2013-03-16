@@ -1,0 +1,39 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\bin\Debug\Baby_Names_Ex4-WPF.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\bin\Debug\Baby_Names_Ex4-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\bin\Debug\Baby_Names_Ex4-WPF.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4_WPF.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\05 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\bin\Debug\Baby_Names_Ex4-WPF.exe.config
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF_MarkupCompile.cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.g.resources
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4_WPF.Properties.Resources.resources
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\bin\Debug\Baby_Names_Ex4-WPF.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\bin\Debug\Baby_Names_Ex4-WPF.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\bin\Debug\Baby_Names_Ex4-WPF.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\bin\Debug\Baby_Names_Ex4-WPF.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\bin\Debug\Baby_Names_Ex4-WPF.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4_WPF.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\06 GUI Lab4 - Baby Names - WPF\Baby_Names_Ex4-WPF\Baby_Names_Ex4-WPF\obj\Debug\Baby_Names_Ex4-WPF.csproj.GenerateResource.Cache

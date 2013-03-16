@@ -1,0 +1,132 @@
+﻿<Window x:Class="Part_4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        Title="Agent Assignment Lab4-6" Height="350" Width="650">
+    <Window.Resources>
+        <Style x:Key="btnStyle" TargetType="Button">
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+    </Window.Resources>
+    <DockPanel>
+        <Menu DockPanel.Dock="Top" >
+            <MenuItem Header="_File">
+                <MenuItem Command="New" />
+                <MenuItem Command="Delete" />
+                <MenuItem Command="Open" />
+                <MenuItem Command="Save"/>
+                <MenuItem Command="SaveAs" />
+                <MenuItem Command="Close" Header="Exit"/>
+            </MenuItem>
+            <MenuItem Header="_Agents">
+                <MenuItem Command="NotACommand"/>
+            </MenuItem>
+            <MenuItem Header="_Edit">
+                <MenuItem Command="Undo"/>
+                <MenuItem Command="Copy"/>
+                <MenuItem Command="Cut" />
+                <MenuItem Command="Paste" />
+            </MenuItem>
+        </Menu>
+        <ToolBar Background="Azure" DockPanel.Dock="Top">
+            <Button Name="btnBack"  
+                    Style="{StaticResource btnStyle}">&lt;</Button>
+            <Button Name="btnForward" 
+                    Style="{StaticResource btnStyle}">&gt;</Button>
+            <Button Name="btnAdd" 
+                    Style="{StaticResource btnStyle}">+</Button>
+            <Button Name="btnMinus" 
+                    Style="{StaticResource btnStyle}">-</Button>
+            <Label FontSize="14" FontWeight="Bold" VerticalAlignment="Center">File _Name:</Label>
+            <TextBox Name="fileName" MinWidth="105" VerticalAlignment="Center"></TextBox>
+        </ToolBar>
+        <StatusBar Background="Azure" DockPanel.Dock="Bottom" DataContext="{Binding ElementName=lbxAgents,Path=SelectedItem}">
+            Agents Count:
+            <StatusBarItem>
+                <TextBlock x:Name="agentCount" />
+            </StatusBarItem>
+            <StatusBarItem HorizontalAlignment="Right" >
+                <TextBlock x:Name="dateTime" />
+            </StatusBarItem>
+        </StatusBar>
+        <Grid DataContext="{Binding ElementName=lbxAgents, Path=SelectedItem}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="4*"/>
+                <ColumnDefinition Width="10*"/>
+                <ColumnDefinition Width="10*"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" 
+               Content="Id" 
+               VerticalAlignment="Center" 
+               Margin="0,10,0,0"
+               />
+            <TextBox Margin="0,10,0,0"
+                 VerticalAlignment="Center"
+                 HorizontalAlignment="Left"
+                 MinWidth="65"
+                 Name="NameId"
+                 Grid.Row="0" 
+                 Grid.Column="1"
+                 Text="{Binding Path=ID}"
+                 />
+
+            <Label Grid.Row="1" 
+                   Name="lblCodeName"
+                   Content="CodeName" 
+                   Margin="0,10,0,0"
+                   />
+            <TextBox Grid.Row="1" 
+                 Grid.Column="1" 
+                 VerticalAlignment="Center" 
+                 Margin="0,10,0,0"
+                 Name="tbxCodeName"
+                 Text="{Binding Path=CodeName}" 
+                 />
+
+            <Label Grid.Row="2" 
+               Content="Speciality"
+               Margin="0,10,0,0"
+               />
+            <TextBox Margin="0,10,0,0"
+                 Grid.Row="2" 
+                 Grid.Column="1" 
+                 VerticalAlignment="Center" 
+                 Name="tbxSpeciality"
+                 Text="{Binding Path=Speciality}" 
+                 />
+
+            <Label Grid.Row="3" 
+               Content="Assignment"
+               Margin="0,10,0,0"
+               />
+            <TextBox Grid.Row="3" 
+                 Grid.Column="1" 
+                 VerticalAlignment="Center" 
+                 MinHeight="70"
+                 Name="tbxAssignment"
+                 Margin="0,10,0,0"
+                 Text="{Binding Path=Assignment}"
+                  />
+
+            <ListBox SelectedIndex="0"
+                    MaxHeight="175" 
+                    Grid.Column="3" 
+                    Grid.RowSpan="9"
+                    Margin="20,0,10,0"
+                Name="lbxAgents"
+                DisplayMemberPath="CodeName"
+                />
+           </Grid>
+        
+    </DockPanel>
+</Window>

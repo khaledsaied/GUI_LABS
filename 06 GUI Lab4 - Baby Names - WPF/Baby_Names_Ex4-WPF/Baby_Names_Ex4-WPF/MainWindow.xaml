@@ -1,0 +1,147 @@
+﻿<Window x:Class="Baby_Names_Ex4_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Baby Names" Height="600" Width="500"  >
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="_File">
+                <MenuItem Header="_Exit" Click="MenuItem_FileExitClick" />
+            </MenuItem>
+            <MenuItem Header="F_ont">
+                <MenuItem Header="_Small" Click="MenuItem_SmallFont"  />
+                <MenuItem Header="_Normal" Click="MenuItem_NormalFont" />
+                <MenuItem Header="_Large" Click="MenuItem_LargeFont"  />
+                <MenuItem Header="_Huge" Click="MenuItem_HugeFont"  />
+            </MenuItem>
+        </Menu>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*"/>
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <DockPanel Grid.Column="0">
+                <Label Content="   _Decades    " />
+                <Label Content="Top 10 baby names in selected decade" />
+            </DockPanel>
+            <DockPanel Grid.Row="1">
+                <ListBox Name="LstDecadeTopNames" 
+                         HorizontalAlignment="Left" 
+                         Margin="10,5,0,5" 
+                         Padding="5" 
+                         />
+                <ListBox Name="TopTen" 
+                         Margin="5,5,35,5" 
+                         />
+            </DockPanel>
+            <GroupBox Grid.Row="2"
+                  Header="Search" Margin="10" Name="groupBoxSearch">
+                <Grid Name="gridSearch">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="200*" />
+                        <ColumnDefinition Width="100*" />
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Column="0" Grid.IsSharedSizeScope="True">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="auto" SharedSizeGroup="gridSearch"/>
+                            <RowDefinition Height="auto" SharedSizeGroup="gridSearch"/>
+                            <RowDefinition Height="auto" SharedSizeGroup="gridSearch"/>
+                            <RowDefinition Height="auto" SharedSizeGroup="gridSearch"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto" MinWidth="30" />
+                            <ColumnDefinition Width="Auto" MinWidth="40"/>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Row="0"
+                           Grid.Column="0"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Center"
+                           Content="_Name: "
+                           />
+                        <TextBox Grid.Row="0"
+                             Grid.Column="1"
+                             Grid.ColumnSpan="2"
+                             Name="tbxName"
+                             VerticalAlignment="Center"
+                             />
+                        <Button Grid.Row="1"
+                            Grid.Column="1"
+                            VerticalAlignment="Center"
+                            Margin="0,5,5,5"
+                            Padding="10,5"
+                            Name="btnSearch"
+                            FontWeight="Bold"
+                            IsDefault="True"
+                            Content="Search"
+                            />
+                        <TextBlock Grid.Row="1"
+                               Grid.Column="2"
+                               Name="tblkError"
+                               FontWeight="Bold" 
+                               Foreground="Red"  
+                               VerticalAlignment="Center"
+                               />
+                        <TextBlock Grid.Row="2"
+                               Grid.Column="1"
+                               VerticalAlignment="Center"
+                               Name="lblAvgRanklbl"
+                               Text="Average ranking: "
+                               />
+                        <TextBox Grid.Row="2"
+                             Grid.Column="2"
+                             VerticalAlignment="Center"
+                             Name="tboxAvgRank"
+                             IsReadOnly="True"
+                             />
+                        <TextBlock Grid.Row="3"
+                               Grid.Column="1"
+                               VerticalAlignment="Center"
+                               Name="lblTrend"
+                               Text="Trend: "
+                               />
+                        <TextBox Grid.Row="3"
+                             Grid.Column="2"
+                             VerticalAlignment="Center"
+                             Name="tboxTrend"
+                             IsReadOnly="True"
+                                 />
+                    </Grid>
+                    <Grid Grid.Row="0" Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto" SharedSizeGroup="gridSearch"/>
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <Label Grid.Row="0"
+                           Grid.Column="0"
+                           Name="lblYear"
+                           Content="Year"
+                           VerticalAlignment="Center"
+                           Margin="5"
+                           />
+                        <Label Grid.Row="0"
+                           Grid.Column="1"
+                           Name="lblRank"
+                           Content="Rank"
+                           HorizontalAlignment="Left"
+                           VerticalAlignment="Center"
+                           />
+                        <ListBox Grid.Row="1"
+                             Grid.Column="0"
+                             Grid.ColumnSpan="2"
+                             HorizontalAlignment="Left"
+                             Margin="5,0,10,10"
+                             MinWidth="70"
+                             Padding="5"
+                             Name="lstNameRanking"
+                             />
+                    </Grid>
+                </Grid>
+            </GroupBox>
+        </Grid>
+    </DockPanel>
+</Window>

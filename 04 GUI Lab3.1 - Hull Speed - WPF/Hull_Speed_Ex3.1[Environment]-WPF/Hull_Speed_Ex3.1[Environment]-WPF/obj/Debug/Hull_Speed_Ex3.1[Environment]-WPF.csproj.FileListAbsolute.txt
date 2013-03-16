@@ -11,3 +11,6 @@ Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex
 Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.csproj.GenerateResource.Cache
 Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.exe
 Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\bin\Debug\Hull_Speed_Ex3.1[Environment]-WPF.exe.config
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\04 GUI Lab3.1 - Hull Speed - WPF\Hull_Speed_Ex3.1[Environment]-WPF\Hull_Speed_Ex3.1[Environment]-WPF\obj\Debug\Hull_Speed_Ex3.1[Environment]-WPF.pdb
