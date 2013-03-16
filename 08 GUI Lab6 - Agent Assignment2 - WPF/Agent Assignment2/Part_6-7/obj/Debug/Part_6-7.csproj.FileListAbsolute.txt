@@ -1,0 +1,13 @@
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\bin\Debug\Part_6-7.exe.config
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\bin\Debug\Part_6-7.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\bin\Debug\Part_6-7.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\MainWindow.baml
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\MainWindow.g.cs
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\App.g.cs
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7_MarkupCompile.cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.g.resources
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6_7.Properties.Resources.resources
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.csprojResolveAssemblyReference.cache
