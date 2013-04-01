@@ -1,18 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using Win1;
+﻿using System.Windows;
+using Part_4;
 
 namespace Part_3
 {
@@ -21,18 +8,17 @@ namespace Part_3
     /// </summary>
     public partial class MainWindow : Window
     {
-        private List<Agent> agentCollection = new List<Agent>();
-
         public MainWindow()
         {
             InitializeComponent();
 
-            agentCollection.Add(new Agent("007", "Bo", "adresse", "spec", "opgav"));
-            agentCollection.Add(new Agent("911", "KS", "nyadresse", "speciale", "opgaverre"));
-            lbxAgents.ItemsSource = agentCollection;
+            #region ButtonEvents
+
             btnBack.Click += btnBack_Click;
             btnForward.Click += btnForward_Click;
             btnAdd.Click += btnAdd_Click;
+
+            #endregion //ButtonEvents
         }
 
         void btnBack_Click(object sender, RoutedEventArgs e)
@@ -49,9 +35,10 @@ namespace Part_3
 
         void btnAdd_Click(object sender, RoutedEventArgs e)
         {
-            agentCollection.Add(new Agent("000", "***", "", "xxxxx", "..."));
-            lbxAgents.Items.Refresh();
+            Agents agents = (Agents)this.FindResource("agents");
+            agents.Add(new Agent("000", "***", "", "xxxxx", "..."));
             lbxAgents.SelectedIndex = lbxAgents.Items.Count - 1;
+            NameId.Focus();
         }
     }
 }

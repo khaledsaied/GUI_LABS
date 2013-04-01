@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAgent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Agent>
+    <ID>007</ID>
+    <CodeName>Bo</CodeName>
+    <Speciality>spec</Speciality>
+    <Assignment>opgav</Assignment>
+  </Agent>
+  <Agent>
+    <ID>911</ID>
+    <CodeName>KS</CodeName>
+    <Speciality>speciale</Speciality>
+    <Assignment>opgaverre</Assignment>
+  </Agent>
+  <Agent>
+    <ID>000</ID>
+    <CodeName>***</CodeName>
+    <Speciality>xxxxx</Speciality>
+    <Assignment>...</Assignment>
+  </Agent>
+  <Agent>
+    <ID>000</ID>
+    <CodeName>***</CodeName>
+    <Speciality>xxxxx</Speciality>
+    <Assignment>...</Assignment>
+  </Agent>
+  <Agent>
+    <ID>000</ID>
+    <CodeName>***</CodeName>
+    <Speciality>xxxxx</Speciality>
+    <Assignment>...</Assignment>
+  </Agent>
+</ArrayOfAgent>

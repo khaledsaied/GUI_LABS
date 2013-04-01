@@ -1,0 +1,15 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\bin\Debug\Part_1.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\Part_1.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\Part_1_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\Part_1.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\Part_1.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\Part_1.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\bin\Debug\Part_1.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\bin\Debug\Part_1.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\Part_1.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\Part_1.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\09 GUI Lab7 - Agent Assignment3 - WPF\Agent Assignment3\Part_1\obj\Debug\Part_1_MarkupCompile.lref

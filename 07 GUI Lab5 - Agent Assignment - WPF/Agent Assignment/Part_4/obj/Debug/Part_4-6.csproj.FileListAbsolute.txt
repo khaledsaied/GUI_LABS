@@ -11,3 +11,5 @@ Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\07 GUI Lab5 - Agent Assignment - WPF\Agent Ass
 Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\07 GUI Lab5 - Agent Assignment - WPF\Agent Assignment\Part_4\obj\Debug\Part_4.Properties.Resources.resources
 Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\07 GUI Lab5 - Agent Assignment - WPF\Agent Assignment\Part_4\obj\Debug\Part_4-6.csproj.GenerateResource.Cache
 Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\07 GUI Lab5 - Agent Assignment - WPF\Agent Assignment\Part_4\obj\Debug\Part_4-6.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\07 GUI Lab5 - Agent Assignment - WPF\Agent Assignment\Part_4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\07 GUI Lab5 - Agent Assignment - WPF\Agent Assignment\Part_4\obj\Debug\Part_4_MarkupCompile.lref

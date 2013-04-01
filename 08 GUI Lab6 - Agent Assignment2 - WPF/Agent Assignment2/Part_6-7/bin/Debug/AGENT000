@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAgent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Agent>
+    <ID>nyagent000</ID>
+    <CodeName>AGENT 00007</CodeName>
+    <Speciality>xxxxx</Speciality>
+    <Assignment>...</Assignment>
+  </Agent>
+</ArrayOfAgent>

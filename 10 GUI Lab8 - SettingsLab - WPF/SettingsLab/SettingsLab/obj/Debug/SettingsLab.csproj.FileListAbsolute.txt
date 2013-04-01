@@ -1,0 +1,1 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\10 GUI Lab7 - SettingsLab - WPF\SettingsLab\SettingsLab\bin\Debug\SettingsLab.exe.config

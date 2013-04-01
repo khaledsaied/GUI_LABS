@@ -39,6 +39,14 @@ namespace Deltagerliste_WPF {
     /// </summary>
     public partial class MainWindow : System.Windows.Window, System.Windows.Markup.IComponentConnector {
         
+        
+        #line 29 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Grid mainVindue;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -70,6 +78,9 @@ namespace Deltagerliste_WPF {
             switch (connectionId)
             {
             case 1:
+            this.mainVindue = ((System.Windows.Controls.Grid)(target));
+            return;
+            case 2:
             
             #line 50 "..\..\MainWindow.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Button_Click_1);

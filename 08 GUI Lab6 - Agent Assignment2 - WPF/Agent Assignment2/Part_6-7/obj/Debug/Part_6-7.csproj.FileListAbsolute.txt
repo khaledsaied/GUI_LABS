@@ -11,3 +11,18 @@
 \\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.exe
 \\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.pdb
 \\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\bin\Debug\Part_6-7.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\bin\Debug\Part_6-7.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\bin\Debug\Part_6-7.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6_7.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\08 GUI Lab6 - Agent Assignment2 - WPF\Agent Assignment2\Part_6-7\obj\Debug\Part_6-7_MarkupCompile.lref
