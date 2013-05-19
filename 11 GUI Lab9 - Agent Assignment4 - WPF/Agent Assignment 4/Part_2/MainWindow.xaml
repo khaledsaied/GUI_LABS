@@ -197,7 +197,6 @@
                    Margin="0,10,0,0"
                />
 
-           
             <!--ASSIGNMENT-->
             <Label Content="Assignment" 
                    Grid.Row="3" 

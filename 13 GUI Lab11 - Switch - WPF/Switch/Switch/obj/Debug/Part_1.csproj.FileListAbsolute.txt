@@ -1,0 +1,16 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\bin\Debug\Switch.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\Switch.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\Switch.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\bin\Debug\Switch.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\bin\Debug\Switch.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\Switch_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\Switch.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\Switch.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\Part_1.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\Part_1.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\bin\Debug\Switch.exe.config
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\Switch.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\GUI\GUI_LABS\13 GUI Lab11 - Switch - WPF\Switch\Switch\obj\Debug\Switch.pdb

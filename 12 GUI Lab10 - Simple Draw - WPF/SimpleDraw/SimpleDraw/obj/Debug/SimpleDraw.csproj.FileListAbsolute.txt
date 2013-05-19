@@ -1,0 +1,13 @@
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\bin\Debug\SimpleDraw.exe.config
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\bin\Debug\SimpleDraw.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\bin\Debug\SimpleDraw.pdb
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\MainWindow.baml
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\MainWindow.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\App.g.cs
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw_MarkupCompile.cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.g.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.Properties.Resources.resources
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.csproj.GenerateResource.Cache
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.exe
+Z:\IKT [4. SEMESTER]\GUI\GUI_LABS\12 GUI Lab10 - Simple Draw - WPF\SimpleDraw\SimpleDraw\obj\Debug\SimpleDraw.pdb
